@@ -1,4 +1,4 @@
-### Goalsetter MERN app
+### Goalsetter MERN app!! 
   # A goal setter app where you can set your daily goals
 ## To Run the project
 # clone by 
